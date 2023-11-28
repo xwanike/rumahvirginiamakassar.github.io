@@ -27,7 +27,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1.4rem 7%;
+  padding: 0.5rem 7%;
   background-color: rgba(1, 1, 1, 0.8);
   border-bottom: 1px solid #513c28;
   position: fixed;
@@ -44,7 +44,7 @@ body {
 
 .navbar .navbar-logo {
   height: 6rem;
-  margin-right: 3px;
+  margin-right: 1px;
 }
 
 .navbar .navbar-logo:last-child {
@@ -102,7 +102,7 @@ body {
 
 /* Hero Section */
 .hero {
-  min-height: 60vh;
+  min-height: 70vh;
   display: flex;
   align-items: center;
   background-image: url("../img/gerbang\ virginia.png");
@@ -128,7 +128,7 @@ body {
 
 .hero .content {
   padding: 1.4rem 7%;
-  max-width: 60rem;
+  max-width: 60em;
 }
 
 .row .menu-card .h4 {
@@ -151,7 +151,7 @@ body {
   margin-top: 1rem;
   line-height: 1.4;
   font-weight: 100;
-  text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.5);
+  text-shadow: 1px 1px 3px rgba(255, 253, 253, 0);
   mix-blend-mode: difference;
 }
 
