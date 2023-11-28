@@ -152,6 +152,7 @@ body {
   line-height: 1.4;
   font-weight: 600;
   text-shadow: 1px 1px 3px rgb(255, 253, 253);
+  mix-blend-mode: difference;
 }
 
 .hero .content .cta {
